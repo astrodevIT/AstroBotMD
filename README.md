@@ -1,9 +1,9 @@
 # 🌟 AstroBotMD - WhatsApp Bot  
 
 ![AstroBotMD](https://img.shields.io/badge/AstroBotMD-Online-brightgreen?style=flat-square)  
-![GitHub repo size](https://img.shields.io/github/repo-size/TUO-NOME-UTENTE/AstroBotMD?color=blue&label=Repo%20Size)  
-![Contributors](https://img.shields.io/github/contributors/TUO-NOME-UTENTE/AstroBotMD?color=yellow)  
-![GitHub stars](https://img.shields.io/github/stars/TUO-NOME-UTENTE/AstroBotMD?style=social)  
+![GitHub repo size](https://img.shields.io/github/repo-size/astrodevIT/AstroBotMD?color=blue&label=Repo%20Size)  
+![Contributors](https://img.shields.io/github/contributors/astrodevIT/AstroBotMD?color=yellow)  
+![GitHub stars](https://img.shields.io/github/stars/astrodevIT/AstroBotMD?style=social)  
 
 > 🤖 **AstroBotMD** è un potente bot WhatsApp basato su **Baileys**, progettato per offrire funzionalità avanzate come automazioni, gestione gruppi, AI e molto altro! 🚀  
 
@@ -35,43 +35,40 @@ Assicurati di avere installato:
 ```bash
 git clone https://github.com/TUO-NOME-UTENTE/AstroBotMD.git
 cd AstroBotMD
+```
 
 2️⃣ Installa le dipendenze
 
+```
 npm install
-
-3️⃣ Configura il bot
-
-Apri il file .env e modifica le variabili necessarie
-
-Scansiona il codice QR con WhatsApp
+```
 
 
-4️⃣ Avvia il bot!
+3️⃣ Avvia il bot!
 
-node index.js
+```
+npm start
+
+```
 
 
 ---
 
 📜 Comandi Principali
 
-Ecco alcuni comandi base di AstroBotMD:
-📌 !sticker - Crea sticker da immagini o video
-📌 !play [titolo] - Scarica musica da YouTube
-📌 !menu - Mostra il menu dei comandi
-📌 !groupinfo - Informazioni sul gruppo
-
-📢 Per vedere tutti i comandi, usa: !help
-
+.menu
+.funzioni
+.gruppo
+.fun
+.owner
+.admin
 
 ---
 
+
 💡 Contribuisci
+Vuoi migliorare AstroBotMD? Forka il repository e inviaci una Pull Request
 
-Vuoi migliorare AstroBotMD? Forka il repository e inviaci una Pull Request! 🤝
-
-📩 Contattaci: Telegram | Email
 
 
 ---
@@ -82,19 +79,8 @@ Baileys
 
 Node.js
 
-Grazie a tutti gli sviluppatori che contribuiscono al progetto! 💙
-
 
 
 ---
 
 🔹 AstroBotMD - Il miglior assistente WhatsApp! 🚀
-
-### 📌 Istruzioni per usarlo  
-1. **Crea un file** `README.md` nella root del tuo progetto.  
-2. **Copia e incolla** il codice sopra nel file.  
-3. **Sostituisci** `"TUO-NOME-UTENTE"`, `"TUO_USERNAME"`, e `"tuaemail@example.com"` con i tuoi dati.  
-4. **Salva e visualizza** su GitHub!  
-
-Se vuoi aggiungere immagini o personalizzarlo ancora di più, fammelo sapere!
-
